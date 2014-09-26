@@ -1,6 +1,6 @@
 {
   "name": "galt",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "node experiments of jonahss",
   "main": "galt.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jonahss/galt/issues"
   },
-  "homepage": "https://github.com/jonahss/galt"
+  "homepage": "https://github.com/jonahss/galt",
+  "dependencies": {
+    "galt": "1.0.0"
+  }
 }
