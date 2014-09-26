@@ -1,6 +1,6 @@
 {
   "name": "galt",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "node experiments of jonahss",
   "main": "galt.js",
   "scripts": {
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/jonahss/galt",
   "dependencies": {
     "galt": "1.0.0"
-  }
+  },
+  "os": ["!darwin"]
 }
