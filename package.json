@@ -1,6 +1,6 @@
 {
   "name": "galt",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "node experiments of jonahss",
   "main": "galt.js",
   "scripts": {
